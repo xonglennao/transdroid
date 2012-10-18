@@ -1,0 +1,8 @@
+
+syntax: glob
+
+# Ignore patterns
+.metadata/
+bin/
+gen/
+lint.xml
